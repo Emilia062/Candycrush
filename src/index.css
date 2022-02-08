@@ -1,16 +1,25 @@
 .app {
   display: flex;
+  justify-content: space-around;
   padding: 30px;
 }
 
 .game {
-  width: 560px;
-  height: 560px;
+  width: 600px;
+  height: 600px;
   display: flex;
   flex-wrap: wrap;
+
 }
 
-.game img {
+.game div {
   width: 70px;
   height: 70px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+h2 {
+  font-family: "Cooper Black";
+  font-size: 20px;
 }
