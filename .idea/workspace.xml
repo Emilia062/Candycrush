@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71482bc9-7470-43f3-9edc-fbde9ddcccf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ScoreBoard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +69,7 @@
       <updated>1644256102722</updated>
       <workItem from="1644256110622" duration="9621000" />
       <workItem from="1644341661407" duration="5424000" />
+      <workItem from="1644498423260" duration="1119000" />
     </task>
     <servers />
   </component>
